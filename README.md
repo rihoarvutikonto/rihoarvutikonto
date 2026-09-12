@@ -1,6 +1,4 @@
-# Hans Tatar
-
-GitHub: [@rihoarvutikonto](https://github.com/rihoarvutikonto)
+# rihoarvutikonto
 
 Open-source **code review**, mostly [Capgo](https://github.com/Cap-go) / Capacitor live updates.
 
